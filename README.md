@@ -150,6 +150,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 #### Physics
 - [Video Game Physics Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics) - Core physics material for game developers.
+- [THE NATURE OF CODE](https://natureofcode.com/) - Physics and biology in games.
 
 #### Procedural Generation
 - [Making Martian Faces](https://dukope.itch.io/mars-after-midnight/devlog/263965/making-martian-faces) - Notes about generating characters for _Mars after Midnight_.
